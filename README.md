@@ -2,10 +2,8 @@ the content is small
 yo  
 gi
 fvvs
-# System Architecture
 
-## High-level Flow
 ```mermaid
-flowchart TD
+flowchart 
   Client --> API
   API --> Database
