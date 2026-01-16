@@ -4,6 +4,6 @@ gi
 fvvs
 
 ```mermaid
-flowchart 
+flowchart TD
   Client --> API
   API --> Database
